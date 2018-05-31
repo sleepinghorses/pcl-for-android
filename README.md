@@ -5,6 +5,7 @@ Scripts were tested for
 
 * Fedora 23, 24
 * Ubuntu 16.04
+* Cmake 2.8 (Fails with 3.*)
 * Android NDK 10e, 11c, 12b
 
 ## Install Requirements
